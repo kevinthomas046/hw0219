@@ -1,4 +1,4 @@
-body{background:#FFFFFF;font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;color:#333}.hero-unit{margin:0 auto;max-width:300px;font-size:18px;font-weight:200;line-height:30px;background-color:#eee;border-radius:6px;padding:60px}.hero-unit h1{font-size:60px;line-height:1;letter-spacing:-1px}
+body{background:#E7EDEA;font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;color:#333}.hero-unit{margin:0 auto;max-width:300px;font-size:18px;font-weight:200;line-height:30px;background-color:#eee;border-radius:6px;padding:60px}.hero-unit h1{font-size:60px;line-height:1;letter-spacing:-1px}
 
 article {
 	padding: 20px;
@@ -7,9 +7,9 @@ article {
 span.product {
 	top: 60px;
 	display: inline-block;
-	border: 2px solid #00B4FF;
+	border: 2px solid #030D4F;
 	padding: 10px;
-	background-color: #EEEEEE;
+	background-color: #E7EDEA;
 	position: relative;
 	border-radius: 2px;
 }
@@ -20,8 +20,8 @@ span.product:after {
 	top: -30px;
 	right: -30px;
 	font-size: 2em;
-	background-color: #515151;
-	color: #EEEEEE;
+	background-color: #FB0C06;
+	color: #E7EDEA;
 	padding: 30px;
 	border-radius: 2px;
 }
