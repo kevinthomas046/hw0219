@@ -12,8 +12,11 @@ span.product {
 	background-color: #E7EDEA;
 	position: relative;
 	border-radius: 2px;
+	width: 300px;
 }
-
+span.product img {
+	max-width: 100%;
+}
 span.product:after {
 	content: attr(data-sale-text);
 	position: absolute;
@@ -24,4 +27,9 @@ span.product:after {
 	color: #E7EDEA;
 	padding: 30px;
 	border-radius: 2px;
+}
+
+span.product:hover {
+	background-color: #FFC52C;
+	color: #030D4F;
 }
